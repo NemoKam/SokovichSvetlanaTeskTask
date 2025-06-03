@@ -3,6 +3,7 @@
 [Техническое задание](test_task.md)
 
 Для запуска воспользуйтесь:
+
     docker-compose up --build -d
 
 
